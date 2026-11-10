@@ -16,10 +16,16 @@ you copied earlier, and it's pasted right where you were typing.
   Click an item (or press Enter) and it lands in place.
 - **Finds things fast.** Search as you type and filter by **Text**, **Images**,
   **Files** or **Links**. Every item shows the app it came from and when.
+- **See before you paste.** Preview long text in full and images up close, with zoom.
+- **Text from screenshots.** Copy the text out of any image in your history. It's
+  added as a new item, ready to paste. It works offline, using Windows' own text
+  recognition.
+- **Mistakes undone.** Deleted something? Click **Undo** or press **Ctrl+Z**.
 - **Keeps what matters.** Pin the things you use all the time. Pins stay until you
   unpin them.
-- **Snippets for text you retype.** Addresses, replies, signatures: save them once and
-  paste them with **Win+Alt+V**. Snippets can fill in today's date, the time, or what
+- **Snippets for text you retype.** Addresses, replies, signatures: save them once
+  (or turn any copied text into one with *Save as snippet*) and paste them with
+  **Win+Alt+V**. Snippets can fill in today's date, the time, or what
   you last copied.
 - **Private by design.** Your history stays on your PC, encrypted to your Windows
   account. Nothing is uploaded.
@@ -51,10 +57,13 @@ you copied earlier, and it's pasted right where you were typing.
 | **Ctrl+1 … Ctrl+9** | Paste the 1st … 9th item |
 | **Ctrl+P** / **Ctrl+H** | Pin / hide the selected item |
 | **Delete** | Delete the selected item |
+| **Ctrl+Z** | Undo the delete |
+| **→** / **←** | Open / close the preview |
 | **Tab** | Switch between Clipboard and Snippets |
 | **Esc** | Clear the search, then close |
 
-You can change both hotkeys in Settings.
+You can change both hotkeys in Settings. Right-click any item to see everything you
+can do with it, shortcuts included.
 
 ## Free, with an optional Pro
 
@@ -67,6 +76,7 @@ coming soon:
 | Pins | 5 | Unlimited |
 | Snippets | 5 | Unlimited |
 | Paste several items in a row (keep the window open) | — | ✓ |
+| Text in images | Copy all the text | Tables and lines kept in order, one-click links, emails, phone numbers and dates, select just the part you want |
 
 Everything else is in both: search and filters, snippets, hotkeys, themes, privacy
 features and updates.
@@ -97,3 +107,6 @@ You can also check in Settings → Updates.
 - In apps running as administrator, Win+V opens the Windows clipboard instead
   (Windows doesn't let normal apps act inside admin windows).
 - Text keeps its formatting when pasted. Use **Shift+Enter** when you want plain text.
+- Text in images is read in the languages installed in Windows. For another language,
+  add it in Windows Settings → Time & language → Language, with its optical character
+  recognition feature.
